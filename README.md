@@ -1,4 +1,4 @@
-# 中华石杉 -- Java面试突击训练营
+# 中华石杉--互联网Java进阶面试训练营
 
 [![original](https://badgen.net/badge/original/%E4%B8%AD%E5%8D%8E%E7%9F%B3%E6%9D%89/orange)]
 [![open-source-organization](https://badgen.net/badge/organization/join%20us/138c7b)]
@@ -16,22 +16,21 @@
 ## 目录
 
 - [面试突击第一季](#面试突击第一季)
-    - [备战面试](#备战面试)
-    - [常见面试题总结](#常见面试题总结)
-    - [面经](#面经)
+    - [分布式消息队列](#分布式消息队列)
+    - [分布式搜索引擎](#搜索引擎)
+    - [分布式缓存](#缓存)
+    - [分库分表](#分库分表)
+    - [分布式锁](#分布式锁)
+    - [分布式会话](#分布式会话)
+    - [分布式事务](#分布式事务)
+    - [分布式限流降级](#分布式事务)
 - [面试突击第二季](#面试突击第二季)
-
 
 
 
 ## 面试突击第一季
 
-## 面试突击第二季 
-
-
-
-## 高并发架构
-### [消息队列](/docs/high-concurrency/mq-interview.md)
+### [分布式消息队列](/docs/high-concurrency/mq-interview.md)
 - [为什么使用消息队列？消息队列有什么优点和缺点？Kafka、ActiveMQ、RabbitMQ、RocketMQ 都有什么优点和缺点？](/docs/high-concurrency/why-mq.md)
 - [如何保证消息队列的高可用？](/docs/high-concurrency/how-to-ensure-high-availability-of-message-queues.md)
 - [如何保证消息不被重复消费？（如何保证消息消费的幂等性）](/docs/high-concurrency/how-to-ensure-that-messages-are-not-repeatedly-consumed.md)
@@ -109,20 +108,12 @@
 - [深入 Hystrix 线程池隔离与接口限流](/docs/high-availability/hystrix-thread-pool-current-limiting.md)
 - [基于 timeout 机制为服务接口调用超时提供安全保护](/docs/high-availability/hystrix-timeout.md)
 
-### 高可用系统
-- 如何设计一个高可用系统？
 
-### 限流
-- 如何限流？在工作中是怎么做的？说一下具体的实现？
 
-### 熔断
-- 如何进行熔断？
-- 熔断框架都有哪些？具体实现原理知道吗？
 
-### 降级
-- 如何进行降级？
+## 面试突击第二季 
 
-## 微服务架构
-- [微服务架构整个章节内容属额外新增，后续抽空更新，也欢迎读者们参与补充完善](https://github.com/doocs/advanced-java)
-- [关于微服务架构的描述](/docs/micro-services/microservices-introduction.md)
+
+
+
 
