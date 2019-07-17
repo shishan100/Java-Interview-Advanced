@@ -13,6 +13,20 @@
 [![PRs Welcome](https://badgen.net/badge/PRs/welcome/green)](http://makeapullrequest.com)
 
 
+
+### 内容说明：
+本仓库存放的是公众号【狸猫技术窝】和**中华石杉**老师合作的课程《互联网Java进阶面试训练营》的笔记，版权归狸猫技术窝所有，侵权将追究法律责任
+
+训练营详细信息请关注公众号【狸猫技术窝】了解
+### 公众号:狸猫技术窝
+
+更多技术干货，请扫描下方二维码，关注公众号狸猫技术窝
+
+![我的公众号](/images/limaojishuwo.jpeg)
+
+
+
+
 ## 目录
 
 - [互联网Java面试指南](#面试指南)
