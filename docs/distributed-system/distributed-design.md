@@ -1,4 +1,4 @@
-###技术广度，为什么要这么考察一个人的技术广度？
+### 技术广度，为什么要这么考察一个人的技术广度？
 
 假设，现在咱们公司，咱们团队负责一个系统，Dubbo / Spring Cloud作为服务框架，MQ（RocketMQ / Kafka），缓存（Redis），搜索（Elasticsearch）
 
