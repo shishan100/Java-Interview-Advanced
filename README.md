@@ -151,6 +151,7 @@
 
 ### 分布式事务
 - [分布式事务了解吗？你们如何解决分布式事务问题的？TCC 如果出现网络连不通怎么办？XA 的一致性如何保证？](/docs/distributed-system/distributed-transaction.md)
+- [关于如何实现一个TCC分布式事务框架的一点思考](http://www.bytesoft.org)
 
 ### 分布式会话
 - [集群部署时的分布式 Session 如何实现？](/docs/distributed-system/distributed-session.md)
