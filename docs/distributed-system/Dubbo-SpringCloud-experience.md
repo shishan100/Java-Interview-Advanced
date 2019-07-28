@@ -6,4 +6,4 @@ http://localhost:9000/order/order/create?productId=1&userId=1&count=3&totalPrice
 
 小小的小作业，参考一下dubbo的官方文档，搭建一个电商系统的dubbo版本的案例出来，我后面会搭建好的
 
-[代码下载点击这里哦!](/docs/distributed-system/code/code.zip)
+[代码下载点击这里哦!](https://github.com/shishan100/Java-Interview-Advanced/raw/master/docs/distributed-system/code/code.zip)
