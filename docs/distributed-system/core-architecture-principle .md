@@ -23,7 +23,7 @@ Java工程师，Dubbo和Spring Cloud起码是基本原理，都有一定的了�
 梳理和明确一个概念：电商系统，拆分为了多个子系统，一次下订单的请求需要多个子系统协作完成，每个子系统都完成一部分的功能，多个子系统分别完成自己负责的事情，最终这个请求就处理完毕
 
 我们不会让每个视频太长，按照我们大纲来讲，说是60讲，粗略的大纲，其实最终会拆分成可能上百讲，Spring Cloud架构原理，我们就要分为上下两讲来说
-![Spring Cloud核心架构原理](/docs/distributed-system/images/01_Spring%20Cloud核心架构原理.png)
+![Spring Cloud核心架构原理](/docs/distributed-system/images/SpringCloud-core-architecture.png)
 
 ###Spring Cloud
 

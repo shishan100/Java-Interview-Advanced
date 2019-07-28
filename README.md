@@ -178,7 +178,7 @@
 - [02、Java工程师面试突击第一季总结：你离一次成功的面试还差多少？](/docs/distributed-system/java-interview-season-1-summary.md)
 - [03、《21天互联网Java进阶面试训练营》的课程说明](/docs/distributed-system/21-day-course-instructions.md)
 - [04、作业：系统分析一下，自己距离大厂offer差在哪里？](/docs/distributed-system/homework.md)
-- [05、感受一下BAT面试官对分布式技术的十几个面试连环炮!](/docs/distributed-system/感受一下BAT面试官对分布式技术的十几个面试连环炮!.md)
+- [05、感受一下BAT面试官对分布式技术的十几个面试连环炮!](/docs/distributed-system/BAT-interview-fire.md)
 - [06、你们公司用的Dubbo？那你再额外说说Spring Cloud的核心架构原理？](/docs/distributed-system/core-architecture-principle%20.md)
 - [07、基于Dubbo和Spring Cloud分别搭建一个电商系统来快速体验一下！](/docs/distributed-system/Dubbo-SpringCloud-experience.md)
 - [08、作业：你们的系统使用了哪种服务框架？为什么要这样技术选型？](/docs/distributed-system/distributed-framework-selection.md)
