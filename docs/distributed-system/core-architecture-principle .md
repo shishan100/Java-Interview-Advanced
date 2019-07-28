@@ -25,12 +25,12 @@ Java工程师，Dubbo和Spring Cloud起码是基本原理，都有一定的了�
 我们不会让每个视频太长，按照我们大纲来讲，说是60讲，粗略的大纲，其实最终会拆分成可能上百讲，Spring Cloud架构原理，我们就要分为上下两讲来说
 ![Spring Cloud核心架构原理](/docs/distributed-system/images/SpringCloud-core-architecture.png)
 
-###Spring Cloud
+### Spring Cloud
 
-####Eureka：服务注册中心
-####Feign：服务调用
-####Ribbon：负载均衡
-####Zuul/Spring Cloud Gatway:网关
+#### Eureka：服务注册中心
+#### Feign：服务调用
+#### Ribbon：负载均衡
+#### Zuul/Spring Cloud Gatway:网关
 
 这么多的系统，电商系统包含了20个子系统，每个子系统有20个核心接口，一共电商系统有400个接口，这么多的接口，直接对外暴露，前后端分离的架构，难道你让前端的同学必须记住你的20个系统的部署的机器，他们去做负载均衡，记住400个接口
 
