@@ -180,12 +180,20 @@
 - [04、作业：系统分析一下，自己距离大厂offer差在哪里？](/docs/distributed-system/homework.md)
 - [05、感受一下BAT面试官对分布式技术的十几个面试连环炮!](/docs/distributed-system/BAT-interview-fire.md)
 - [06、你们公司用的Dubbo？那你再额外说说Spring Cloud的核心架构原理？](/docs/distributed-system/core-architecture-principle%20.md)
-- [07、基于Dubbo和Spring Cloud分别搭建一个电商系统来快速体验一下！](/docs/distributed-system/Dubbo-SpringCloud-experience.md)
+- [07、基于Dubbo和Spring Cloud分别搭建一个电商系统来快速体验一下！](/docs/distributed-system/Dubbo-SpringCloud-experience.md)[代码下载点击这里哦!](https://github.com/shishan100/Java-Interview-Advanced/raw/master/docs/distributed-system/code/code.zip)
 - [08、作业：你们的系统使用了哪种服务框架？为什么要这样技术选型？](/docs/distributed-system/distributed-framework-selection.md)
 - [09、看过Dubbo源码吗？说说Dubbo的底层架构原理？](/docs/distributed-system/dubbo-framework-principle.md)
 - [10、咱们来聊点深入的，说说Dubbo底层的网络通信机制原理！](/docs/distributed-system/dubbo-rock-bottom.md)
 - [11、Dubbo框架从架构设计角度，是怎么保证极高的可扩展性的？](/docs/distributed-system/dubbo-augmentability.md)
 - [12、作业：自己独立画出Dubbo的底层架构原理图](/docs/distributed-system/dubbo-independent-framework.md)
+- [13、如果让你设计一个RPC框架，网络通信、代理机制、负载均衡等该如何设](/docs/distributed-system/rpc-design.md)
+- [14、平时除了使用外，有研究过Spring Cloud的底层架构原理么？](/docs/distributed-system/springCloud-study-theory.md)
+- [15、从底层实现原理的角度，对比一下Dubbo和Spring Cloud的优劣！](/docs/distributed-system/dubbo-vs-springCloud.md)
+- [16、作业：自己独立画出Spring Cloud的架构原理图，RPC框架架构设计图！](/docs/distributed-system/springCloud-and-rpc-framework.md)
+- [17、面试官：你们的服务注册中心进行过选型调研吗？对比一下各种服务注册中心！](/docs/distributed-system/registration-center-%20guide.md)
+- [18、画图阐述一下你们的服务注册中心部署架构，生产环境下怎么保证高可用？](/docs/distributed-system/register-high-availability.md)
+- [19、你们系统遇到过服务发现过慢的问题吗？怎么优化和解决的？](/docs/distributed-system/service-register-discovery.md)
+- [20、作业：说一下自己公司的服务注册中心怎么技术选型的？生产环境中应该怎么优化？](/docs/distributed-system/register-production-optimize.md)
 
 
 ### 第二季-高并发
