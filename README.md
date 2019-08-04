@@ -195,7 +195,7 @@
 - [19、你们系统遇到过服务发现过慢的问题吗？怎么优化和解决的？](/docs/distributed-system/service-register-discovery.md)
 - [20、作业：说一下自己公司的服务注册中心怎么技术选型的？生产环境中应该怎么优化？](/docs/distributed-system/register-production-optimize.md)
 - [21、你们对网关的技术选型是怎么考虑的？能对比一下各种网关技术的优劣吗？](/docs/distributed-system/gateway-model-selection.md)
-- [22、说说生产环境下，你们是怎么实现网关对服务的动态路由的？](/docs/distributed-system/dynamic-route.md)<font color=#0099ff size=12 face="黑体">[代码下载点击这里哦!](https://github.com/shishan100/Java-Interview-Advanced/raw/master/docs/distributed-system/code/code2.zip)</font>
+- [22、说说生产环境下，你们是怎么实现网关对服务的动态路由的？](/docs/distributed-system/dynamic-route.md)[代码下载点击这里哦!](https://github.com/shishan100/Java-Interview-Advanced/raw/master/docs/distributed-system/code/code2.zip)
 - [23、如果网关需要抗每秒10万的高并发访问，你应该怎么对网关进行生产优化？](/docs/distributed-system/gateway-high-concurrency.md)
 - [24、作业：你们公司的网关是怎么技术选型的，假设有高并发场景怎么优化？](/docs/distributed-system/gateway-technical.md)
 
