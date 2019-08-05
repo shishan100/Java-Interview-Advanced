@@ -200,7 +200,7 @@
 - [24、作业：你们公司的网关是怎么技术选型的，假设有高并发场景怎么优化？](/docs/distributed-system/gateway-technical.md)
 - [25、如果需要部署上万服务实例，现有的服务注册中心能否抗住？如何优化？](/docs/distributed-system/registration-center-optimize.md)
 - [26、你们是如何基于网关实现灰度发布的？说说你们的灰度发布方案？](/docs/distributed-system/gray-environment.md)[代码下载点击这里哦!](https://github.com/shishan100/Java-Interview-Advanced/raw/master/docs/distributed-system/code/code3.zip)
-- [27、说说你们一个服务从开发到上线，服务注册、网关路由、服务调用的流程！？](/docs/distributed-system/service-register-gateway-router.md)
+- [27、说说你们一个服务从开发到上线，服务注册、网关路由、服务调用的流程？](/docs/distributed-system/service-register-gateway-router.md)
 - [28、作业：看看你们公司的服务注册中心能否支撑上万服务实例的大规模场景？](/docs/distributed-system/work-register.md)
 
 
