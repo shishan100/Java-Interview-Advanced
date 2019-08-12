@@ -1,0 +1,2 @@
+
+大家按照我提示的思路，参考人家的sample，尝试把seata分布式事务框架整合到spring cloud技术架构里去，把这个东西跑出来，如果遇到了问题之后，可以上seata github提issue，问人家怎么回事
