@@ -1,0 +1,8 @@
+
+其实也很简单，自己写一个可靠消息服务即可，接收人家发送的half message，然后返回响应给人家，如果Producer没收到响应，则重发。然后Producer执行本地事务，接着发送commit/rollback给可靠消息服务。
+
+可靠消息服务启动一个后台线程定时扫描本地数据库表中所有half message，超过一定时间没commit/rollback就回调Producer接口，确认本地事务是否成功，获取commit/rollback
+
+如果消息被rollback就废弃掉，如果消息被commit就发送这个消息给下游服务，或者是发送给RabbitMQ/Kafka/ActiveMQ，都可以，然后下游服务消费了，必须回调可靠消息服务接口进行ack
+
+如果一段时间都没收到ack，则重发消息给下游服务
